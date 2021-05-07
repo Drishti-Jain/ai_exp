@@ -1,2 +1,2 @@
 # AI-Lab
-This repositpry contains all the lab experiments of Artificial Intelligence.
+This repository contains all the lab experiments of Artificial Intelligence.
