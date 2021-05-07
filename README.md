@@ -1,2 +1,2 @@
-# github-demo
-a simple demo showing basic git workflow
+# AI-Lab
+This repositpry contains all the lab experiments of Artificial Intelligence.
